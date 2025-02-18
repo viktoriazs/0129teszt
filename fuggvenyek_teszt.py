@@ -17,7 +17,7 @@ def cigar_party_teszt2():
               f"Vart eredemeny: {vart} \n"
               f"kapott: {kapott}\n"
               f"JO_E?: {vart == kapott}\n")
-        
+
 
 def cigar_party_teszt():
     """Ez tratalmaza a teszteket
